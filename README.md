@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/search?sca_esv=725efba4277893af&sxsrf=ACQVn0-OmP8J4fOnl02gV5z8WiQXjESM5w:1713209183935&q=computer+software+engineer+gif&uds=AMwkrPs6SWHBK305nqvJwRulbdfq_qzL3Ml74x9vs1sU0CQoEkfIYRCTb5Yn6N1lZ6KTZbfg1b3u2_yI1G_D2ZMm74ZGsHjJnDJ9MdZXomrZ4ia18Repft0g2hDubrTnXyhZPATiNYAkw--kuVyMf3HZQsn8pgT2C_VZ6XqAg7J04q_36Y_VMIt-kyt_aOoTnXKfNxTeQj4ekEYiS3duGeYpIiJuWY9ci_PNkNZuEAKr8JD6wqWMzOho43G4YXP-__ToNWziWYfOHZxeXT3w69vjZeK_Yx-QItBalediZ4APKEXss-nm6Pg896FAde6SXv5zmT4lmxQaKq4j-sK3mIEc8KD_zcV0FgNkE0M4WDqo_rVA4Ak-T-E&udm=2&sa=X&ved=2ahUKEwjeg9bG-cSFAxXuefUHHWgLDq0QxKsJegQICxAB&ictx=0&biw=393&bih=751&dpr=2.75#vhid=CrsfPvrdycsnkM&vssid=mosaic)]
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxTTwdUjrgnbTo0mDqWPz9tQeZBUR8rmSjP3_90QGxUQ&s)]
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUitEJTbHU8q5gYYKUrd4jB3h3oEjTUYhwCQ&usqp=CAU">
 🔭<h1 align="center">Hi 👋, I'm Abdullah Al Galib</h1>
