@@ -28,10 +28,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=galib201&show_icons=true&locale=en&layout=compact" alt="galib201" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=galib201&" alt="galib201" /></p>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=galib201&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
