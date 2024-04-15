@@ -1,28 +1,33 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5116AQHs7bVDtdUvGQ/profile-displaybackgroundimage-shrink_200_800/0/1565846512358?e=2147483647&v=beta&t=WJE8ptY6z_9OpXBzubRCL_nTwthZmTNQBQNAdy3jjJ0)]
+[![MasterHead](https://www.google.com/search?sca_esv=725efba4277893af&sxsrf=ACQVn0-OmP8J4fOnl02gV5z8WiQXjESM5w:1713209183935&q=computer+software+engineer+gif&uds=AMwkrPs6SWHBK305nqvJwRulbdfq_qzL3Ml74x9vs1sU0CQoEkfIYRCTb5Yn6N1lZ6KTZbfg1b3u2_yI1G_D2ZMm74ZGsHjJnDJ9MdZXomrZ4ia18Repft0g2hDubrTnXyhZPATiNYAkw--kuVyMf3HZQsn8pgT2C_VZ6XqAg7J04q_36Y_VMIt-kyt_aOoTnXKfNxTeQj4ekEYiS3duGeYpIiJuWY9ci_PNkNZuEAKr8JD6wqWMzOho43G4YXP-__ToNWziWYfOHZxeXT3w69vjZeK_Yx-QItBalediZ4APKEXss-nm6Pg896FAde6SXv5zmT4lmxQaKq4j-sK3mIEc8KD_zcV0FgNkE0M4WDqo_rVA4Ak-T-E&udm=2&sa=X&ved=2ahUKEwjeg9bG-cSFAxXuefUHHWgLDq0QxKsJegQICxAB&ictx=0&biw=393&bih=751&dpr=2.75#vhid=CrsfPvrdycsnkM&vssid=mosaic)]
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-211.jpg">
-🔭 I’m currently working on MERN Stack Development<br><br>🌱 I’m currently learning HTML,CSS,Javascript and MERN Stack<br><br>💬 Ask me about Android and MERN<br><br>📫 How to reach me : galibgg201@gmail.com<br><br>⚡ Fun fact : I love to crack jokes
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUitEJTbHU8q5gYYKUrd4jB3h3oEjTUYhwCQ&usqp=CAU">
+🔭<h1 align="center">Hi 👋, I'm Abdullah Al Galib</h1>
+<h3 align="center">A passionate Data Scientist from Bangladesh</h3>
 
+- 🌱 I’m currently learning **NLP,Machine Learning and Deep Learning**
 
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/galibsportfolio](https://sites.google.com/view/galibsportfolio)
 
+- 💬 Ask me about **Python,Sql,Excel,PowerBi etc**
 
+- 📫 How to reach me **galibgg201@gmail.com**
 
+- 📄 Know about my experiences [https://sites.google.com/view/galibsportfolio](https://sites.google.com/view/galibsportfolio)
 
+- ⚡ Fun fact **I love to crack jokes!**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/galib1056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="galib1056" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/galib1056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/galib1056" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=galib201&show_icons=true&locale=en&layout=compact" alt="galib201" /></p>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/galibk201) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gk_galib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullah-al-galib-908645272/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/galib1056) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@MrMicrobot) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=galib201&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=galib201&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=galib201&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=galib201&" alt="galib201" /></p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
