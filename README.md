@@ -8,7 +8,7 @@
 
 - I’m currently learning: **NLP,Machine Learning and Deep Learning**
 
-- My Portfolio: **[https://sites.google.com/view/galibsportfolio]**
+- My Portfolio: **[https://sites.google.com/diu.edu.bd/abdullahalgalib?usp=sharing]**
 
 - Ask me about: **Python,Sql,Excel,PowerBi,Machine Learning**
 
