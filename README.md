@@ -10,7 +10,7 @@
 
 - My Portfolio: **[https://sites.google.com/diu.edu.bd/abdullahalgalib?usp=sharing]**
 
-- Experties: **Web Application Development,Data Analytics,Machine Learning**
+- Experties: **Web Application Development,Web Scrapping,Project management**
 
 - How to reach me: **galibgg201@gmail.com**
 
