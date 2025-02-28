@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 # About Me:
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c2c315240a33d03dc80d0b793144cf88b2bf535fbdd6a1720b7aed2b63035adb/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363035362c77696474682d313230302c6865696768742d3930302c696d6773697a652d3633383035332c726573697a656d6f64652d382f32303231303730365f646576656c6f7065722d65636f6e6f6d795f30312e6a7067">
+<img align="right" alt="Coding" width="400" src="">
 <h1 align="center">Hi 👋, I'm Abdullah Al Galib</h1>
 <h3 align="center">A passionate Software Enginner and Data Analyst from Bangladesh</h3>
 
